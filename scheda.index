@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf 8">
+        <title>Piatto istoriato con Apollo e Dafne</title>
+        <link rel="stylesheet" href="stile.css">
+    </head>
+    <body>
+        <article>
+            <figure class="miniatura">
+                <img src="ICCD12166458_550108.jpg">
+                <figcaption> immagine di prova 
+            </figure>
+            <div class="testo">
+                <h1>Piatto istoriato con Apollo e Dafne</h1>
+                <p class="autore">Bottega Faentina, metà del XVI secolo </p>
+                <p>Piatto da pompa con la metamorfosi di Dafne in alloro, tratta dalle Metamorfosi di Ovidio; tesa decorata a grottesche su fondo blu.</p>
+                <dl>
+                    <dt>Identificativo</dt>
+                    <dd>OGG-0001</dd>
+                    <dt>Tipologia</dt>
+                    <dd>Ceramica</dd>
+                    <dt>Autore o ambito</dt>
+                    <dd>Bottega faentina</dd>
+                    <dt>Datazione</dt>
+                    <dd>1520-1530 circa (XVI secolo)</dd>
+                    <dt>Luogo</dt>
+                    <dd>Faenza</dd>
+                    <dt>Materia e tecnica</dt>
+                    <dd>Maiolica dipinta in policromia</dd>
+                    <dt>Misure</dt>
+                    <dd>diametro 26 cm</dd>
+                    <dt>Stato di conservazione</dt>
+                    <dd>Buono</dd>
+                    <dt>Licenza</dt>
+                    <dd>CC BY 4.0</dd>
+                </dl>
+                <a href="https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900075619">Altre ceramiche istoriate</a>
+            </div>
+    </article>
+</body>
+</html>
